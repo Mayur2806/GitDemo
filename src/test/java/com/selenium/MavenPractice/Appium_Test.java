@@ -11,8 +11,7 @@ public class Appium_Test {
 		System.out.println("commit by mr y");
 		System.out.println("commit by mr x");
 		System.out.println("QAT work by mr y");
-		System.out.println("commit from eclipseas");
-		System.out.println("git changes");
+		
 		
 	}
 }
